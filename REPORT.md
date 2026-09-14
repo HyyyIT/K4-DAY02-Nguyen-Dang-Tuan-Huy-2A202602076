@@ -1,6 +1,6 @@
 # Báo cáo — Ngày 2: phát hiện vật thể
 
-**Họ và tên:** Nguyen_Dang_Tuan_Huy<br>
+**Họ và tên:** Nguyễn Đăng Tuấn Huy<br>
 **MSSV:** 2A202602076<br>
 **Hình thức:** Cá Nhân<br>
 **Mã cặp:** SOLO
